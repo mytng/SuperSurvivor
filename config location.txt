@@ -1,0 +1,29 @@
+﻿Lecture\Language\Plugins\Vietnamese.txt
+ 	&vpMindMap=Mind Map&
+	&vpTyping=Tập gõ phím&
+
+	&Vnkey=Bộ gõ Tiếng Việt&
+	&vlImage=Các hiệu ứng hình ảnh&
+	&vlEffect=Các hiệu ứng chuyển động&
+	&vlDethi=TV câu hỏi trắc nghiệm&
+	&tnIOE3=TV Trắc nghiệm IOE lớp 3&
+	&tnIOE4=TV Trắc nghiệm IOE lớp 4&
+	&tnIOE5=TV Trắc nghiệm IOE lớp 5&
+	&sxIOE3=TV Sắp xếp IOE lớp 3&
+	&sxIOE4=TV Sắp xếp IOE lớp 4&
+	&sxIOE5=TV Sắp xếp IOE lớp 5&
+
+Lecture\vpTyping\Language
+	&keystrokes=Tổ hợp phím&
+	&words=Số từ&
+	&min=phút.&
+	&wpm=từ/phút&
+
+
+<PLUGIN name="vpTyping" editor="vpTyping\Editor.swf" player="vpTyping\Viewer.swf" language="vpTyping\Language">
+      <VPTYPING_INFO>
+		<root typingMode="">
+			<paragraph>The mother </paragraph>
+		</root>
+      </VPTYPING_INFO>
+</PLUGIN>
